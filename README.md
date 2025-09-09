@@ -15,3 +15,4 @@ The Data Compression Tool is a C program developed to demonstrate the concept of
 
 output:
 
+<img width="1160" height="770" alt="Image" src="https://github.com/user-attachments/assets/0f5c0cea-1036-4e39-af12-79134b887a6f" />
